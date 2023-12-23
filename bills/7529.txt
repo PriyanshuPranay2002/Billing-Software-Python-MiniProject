@@ -1,0 +1,18 @@
+		 WELCOME TO PROJECT MALL
+ Bill Number:7529
+ Customer Name:lalit
+ Phone Number:7894
+ Customer E-Mail:nmjk
+=================================================
+ Products		QTY		Price
+=================================================
+ Skull Candy		2		6000
+ SanDisk		1		1000
+ Sony		1		150000
+
+
+ =================================================
+ Sub Amount: 			₹ 157000.00
+ Tax Amount: 			₹ 70.00
+ Total Amount: 			₹ 157070.00
+ =================================================

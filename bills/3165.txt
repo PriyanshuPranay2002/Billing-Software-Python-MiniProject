@@ -1,0 +1,18 @@
+		 WELCOME TO PROJECT MALL
+ Bill Number:3165
+ Customer Name:Hemang
+ Phone Number:1234
+ Customer E-Mail:hra007
+=================================================
+ Products		QTY		Price
+=================================================
+ Samsung		1		90000
+ Corsair		1		1200
+ Bajaj		1		20000
+
+
+ =================================================
+ Sub Amount: 			₹ 111200.00
+ Tax Amount: 			₹ 912.00
+ Total Amount: 			₹ 112112.00
+ =================================================
